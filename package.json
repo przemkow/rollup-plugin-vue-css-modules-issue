@@ -8,7 +8,7 @@
   "devDependencies": {
     "rollup": "^1.1.0",
     "rollup-plugin-css-only": "^2.0.0",
-    "rollup-plugin-vue": "5.1.7"
+    "rollup-plugin-vue": "6.0.0"
   },
   "dependencies": {
     "vue": "^2.6.11",
